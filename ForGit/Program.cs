@@ -10,6 +10,7 @@ namespace ForGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("jok");
         }
     }
 }
