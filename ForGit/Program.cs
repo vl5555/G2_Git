@@ -11,7 +11,8 @@ namespace ForGit
         static void Main(string[] args)
         {
             Console.WriteLine("jok");
-            Console.WriteLine("Change int test branch");
+            Console.WriteLine("Change in test branch");
+            Console.WriteLine("Change in master branch");
         }
     }
 }
